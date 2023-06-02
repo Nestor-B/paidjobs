@@ -2,8 +2,8 @@ import { URL_FRONTEND } from "./assets/utils"
 import Swal from 'sweetalert2'
 
 export const Autenticacion = ( orderID, monto, email_paypal, id_file, file_name ) => {
-    const login = 'AXf3r2N4vwaJcbcqAFqG8yv-py-KFWkR0uZ--kC_UgKTXdC99l3O8uQSJzJtCv8Ao-QBhyYdl8s1Be-j'
-    const password = 'EENxL9cJ05uXmd8nxVI18mOG17xei3QxVddx5QBFHNPwou5eWjEwi0PAK9h6wOYqjfSF2OKod1Sfn6YT'
+    const login = ''
+    const password = ''
     fetch("https://api-m.sandbox.paypal.com/v1/oauth2/token/", {
         method: "POST",
         headers: {
