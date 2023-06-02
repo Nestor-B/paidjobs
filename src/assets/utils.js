@@ -1,0 +1,1 @@
+export const URL_FRONTEND = 'http://192.168.1.17/www/sp/'
