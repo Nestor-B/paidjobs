@@ -6,12 +6,7 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, on
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyAluLH-PuHwwfMOqPw8zVcUHg8Mni1RxF4",
-    authDomain: "piadjobs.firebaseapp.com",
-    projectId: "piadjobs",
-    storageBucket: "piadjobs.appspot.com",
-    messagingSenderId: "922864531601",
-    appId: "1:922864531601:web:2a9f21bee5928d38fce730"
+
 };
 
 // Initialize Firebase
